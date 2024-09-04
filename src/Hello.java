@@ -1,4 +1,3 @@
-```
 /**
  * Author: Alex Schwarz
  *         aschwarz9@huskers.unl.edu
